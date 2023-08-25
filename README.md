@@ -1,3 +1,14 @@
-# Documentação
+# Marklist
 
-## Escopo ![Escopo](https://cdn-icons-png.flaticon.com/512/2535/2535548.png =x20)
+## 📽️ Escopo
+
+### Objetivo do Projeto
+
+### Tecnologias
+
+### Matriz de Habilidades
+
+#### Soft Skills
+
+#### Hard Skills
+
