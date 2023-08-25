@@ -15,6 +15,17 @@ O projeto "Marklist" visa a criação de um aplicativo para o gerenciamento de l
 
 ### Tecnologias
 
+
+
+
+
+## 👨‍💻Equipe
+
+* [Dennis Sousa Farias](https://github.com/Dennis-Farias) - Scrum Master
+* [Matheus Morandi](https://github.com/MatheusMorandi) - Product Owner
+* [Gabriel Henrique Garcia](https://github.com/gabrielhogarcia)
+* [Lucas Tamura](https://github.com/lucastamura)
+
 ### Matriz de Habilidades
 
 #### Soft Skills
