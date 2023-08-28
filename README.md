@@ -28,8 +28,9 @@ O projeto "Marklist" visa a criação de um aplicativo para o gerenciamento de l
 
   ### Matriz de Habilidades
 
-  Legenda
-  1 - Não Entendo
+Legenda
+1 - Não Entendo
+  
 2 - Sei na Teoria
 3 - Faço com Ajuda
 4 - Faço sem ajuda
@@ -44,7 +45,7 @@ O projeto "Marklist" visa a criação de um aplicativo para o gerenciamento de l
 | Matheus Morandi       |   3   |     3       |          4             |     4       |    4      |             5               |     4     |
 | Dennis de Sousa Farias|   3   |     2       |          4             |     4       |    4      |             4               |     3     |
 
-#### HardSkill
+  #### HardSkill
 
 | Nome                  | GitHub (Versionamento) | Python (Kivy) | FireBase |
 |-----------------------|------------------------|--------------|----------|
@@ -53,9 +54,4 @@ O projeto "Marklist" visa a criação de um aplicativo para o gerenciamento de l
 | Matheus Morandi       |           3            |      4       |    3     |
 | Dennis de Sousa Farias|           3            |      3       |    2     |
 
-### Matriz de Habilidades
-
-#### Soft Skills
-
-#### Hard Skills
 
