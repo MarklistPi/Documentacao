@@ -26,6 +26,33 @@ O projeto "Marklist" visa a criação de um aplicativo para o gerenciamento de l
 * [Gabriel Henrique Garcia](https://github.com/gabrielhogarcia)
 * [Lucas Tamura](https://github.com/lucastamura)
 
+  ### Matriz de Habilidades
+
+  Legenda
+  1 - Não Entendo
+2 - Sei na Teoria
+3 - Faço com Ajuda
+4 - Faço sem ajuda
+5 - Experiente
+
+  #### SoftSkills
+
+| Nome                  | Figma | Stakeholder | Gerenciamento de grupo | Resiliência | Liderança | Relacionamento Interpessoal | Autonomia |
+|-----------------------|-------|-------------|------------------------|-------------|-----------|-----------------------------|-----------|
+| Lucas Tamura          |   5   |     3       |          4             |     4       |    3      |             3               |     4     |
+| Gabriel Garcia        |   3   |     2       |          3             |     4       |    2      |             4               |     4     |
+| Matheus Morandi       |   3   |     3       |          4             |     4       |    4      |             5               |     4     |
+| Dennis de Sousa Farias|   3   |     2       |          4             |     4       |    4      |             4               |     3     |
+
+#### HardSkill
+
+| Nome                  | GitHub (Versionamento) | Python (Kivy) | FireBase |
+|-----------------------|------------------------|--------------|----------|
+| Lucas Tamura          |           4            |      3       |    2     |
+| Gabriel Garcia        |           4            |      3       |    2     |
+| Matheus Morandi       |           3            |      4       |    3     |
+| Dennis de Sousa Farias|           3            |      3       |    2     |
+
 ### Matriz de Habilidades
 
 #### Soft Skills
