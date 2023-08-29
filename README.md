@@ -3,10 +3,10 @@
 ## 📽️ Escopo
 
 ### Objetivo do Projeto
-O projeto "Marklist" visa a criação de um aplicativo para o gerenciamento de listas de compras de famílias. O aplicativo proporcionará uma experiência integrada, permitindo que os membros da família colaborem e organizem suas compras de maneira prática.
+O projeto "Marklist" visa a criação de uma plataforma web para o gerenciamento de listas de compras de famílias. A plataforma proporcionará uma experiência integrada, permitindo que os membros da família colaborem e organizem suas compras de maneira prática.
 
 **Recursos Principais:**
-- **Conta Familiar:** O aplicativo permitirá a criação de uma conta única para a família, onde todos os membros podem se conectar e colaborar.
+- **Conta Familiar:** A plataforma permitirá a criação de uma conta única para a família, onde todos os membros podem se conectar e colaborar.
 - **Adição de Membros:** Os membros da família poderão ser adicionados à conta, permitindo a participação de todos na criação e gestão das listas de compras.
 - **Lista de Supermercado:** Os usuários poderão adicionar itens à lista de compras, especificando quantidade, marca, categoria e outras informações relevantes.
 - **Sincronização em Tempo Real:** Alterações na lista de compras serão atualizadas instantaneamente para todos os membros da família, garantindo que todos estejam informados.
@@ -16,10 +16,13 @@ O projeto "Marklist" visa a criação de um aplicativo para o gerenciamento de l
 
 # 👨‍💻Equipe
 
-- [Dennis Sousa Farias](https://github.com/Dennis-Farias) - Scrum Master
-- [Matheus Morandi](https://github.com/MatheusMorandi) - Product Owner
-- [Gabriel Henrique Garcia](https://github.com/gabrielhogarcia)
-- [Lucas Tamura](https://github.com/lucastamura)
+<img src="https://avatars.githubusercontent.com/u/101424784?v=4" height="35px"> [Dennis Sousa Farias](https://github.com/Dennis-Farias) - Scrum Master
+
+<img src="https://avatars.githubusercontent.com/u/100449058?v=4" height="35px"> [Matheus Morandi](https://github.com/MatheusMorandi) - Product Owner
+
+<img src="https://avatars.githubusercontent.com/u/117932713?v=4" height="35px"> [Gabriel Henrique Garcia](https://github.com/gabrielhogarcia)
+
+<img src="https://avatars.githubusercontent.com/u/101160398?v=4" height="35px"> [Lucas Tamura](https://github.com/lucastamura)
 
 ### Matriz de Habilidades
 
